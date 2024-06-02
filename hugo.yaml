@@ -45,7 +45,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "static/icons8-teacher-16.png"
+    favicon: "https://img.icons8.com/?size=100&id=L9KxyvpfmbOv&format=png&color=000000"
     #favicon16x16: "<link / abs url>"
     #favicon32x32: "<link / abs url>"
     #apple_touch_icon: "<link / abs url>"
